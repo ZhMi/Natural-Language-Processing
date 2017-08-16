@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 # author : zhmi
-# mail : zhmi120@sina.com
+# mail : 
 # description : Tagging part of speech in articles.
 
 import nltk
